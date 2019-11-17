@@ -1,0 +1,15 @@
+body{
+background-color: rgb(25, 16, 110);
+
+
+}
+h1{
+    color: aqua;
+}
+img#imagen1{
+    width: 300px;
+}
+img#imagen2{
+    width: 900px;
+}
+
